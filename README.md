@@ -3,7 +3,9 @@ To build a server using sequelize and Express Router to do CRUD Operation
 
 
 ## HEROKU link :
-https://basicapi-server-tasneem.herokuapp.com/clothes
+https://basicapi-server-tasneem.herokuapp.com/clothes<br>
+
+
 https://basicapi-server-tasneem.herokuapp.com/food
 
 
